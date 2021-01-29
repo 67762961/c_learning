@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606974985 source:d:\study\files\code\codeblocks\12.3（2）由键盘输入一个正整数n，统计小于等于n的所有奇数的个数并计算出相应的和。\main.c
+	<stdio.h>
+	<stdlib.h>
+

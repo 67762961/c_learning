@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606981131 source:d:\study\files\code\codeblocks\12.3（6）统计个数并计算非负数之和\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1605582147 source:d:\study\files\code\codeblocks\11.17（3）用泰勒展式计算pi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

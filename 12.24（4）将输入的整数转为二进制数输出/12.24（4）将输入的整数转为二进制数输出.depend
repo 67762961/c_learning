@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608823346 source:d:\study\files\code\codeblocks\12.24（4）将输入的整数转为二进制数输出\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

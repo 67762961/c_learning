@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1603890029 source:d:\study\files\code\10.28（0）\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1604365825 source:d:\study\files\code\codeblocks\10.28（0）数字位数 分位输出 倒置转换\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

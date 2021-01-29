@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606187656 source:d:\study\files\code\codeblocks\11.34（7）简单的口令检查程序\main.c
+	<stdio.h>
+	<stdlib.h>
+

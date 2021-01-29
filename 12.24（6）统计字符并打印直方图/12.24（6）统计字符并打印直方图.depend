@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608826828 source:d:\study\files\code\codeblocks\12.24（6）统计字符并打印直方图\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

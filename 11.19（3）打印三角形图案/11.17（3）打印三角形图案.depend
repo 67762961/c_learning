@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605767487 source:d:\study\files\code\codeblocks\11.17（3）打印三角形图案\main.c
+	<stdio.h>
+	<stdlib.h>
+

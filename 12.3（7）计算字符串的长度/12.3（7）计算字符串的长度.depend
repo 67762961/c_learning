@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606983318 source:d:\study\files\code\codeblocks\12.3（7）计算字符串的长度\main.c
+	<stdio.h>
+	<stdlib.h>
+

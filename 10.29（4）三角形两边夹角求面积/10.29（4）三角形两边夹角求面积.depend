@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603973129 source:d:\study\files\code\10.29（4）三角形两边夹角求面积\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

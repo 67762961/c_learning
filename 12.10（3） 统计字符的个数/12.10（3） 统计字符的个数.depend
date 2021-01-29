@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607584588 source:d:\study\files\code\codeblocks\12.10（3） 统计字符的个数\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604371133 source:d:\study\files\code\codeblocks\11.3（5）输出表达式的值\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

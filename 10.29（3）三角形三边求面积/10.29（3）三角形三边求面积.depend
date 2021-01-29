@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603971619 source:d:\study\files\code\10.29（3）三角形三边求面积\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

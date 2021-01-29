@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606974585 source:d:\study\files\code\codeblocks\12.3（1）从键盘输入若干个学生的成绩，统计并输出最高成绩、最低成绩，当输入负数时结束输入。\main.c
+	<stdio.h>
+	<stdlib.h>
+
